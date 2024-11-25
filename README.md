@@ -1,1 +1,1 @@
-[https://www.google.com/search?q=google&rlz=1CAXXPU_enUS1110&oq=google&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyDQgCEAAYgwEYsQMYgAQyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYQTIGCAcQRRhB0gEIMjg5OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on]()
+[https://www.google.com/](url)
